@@ -1,0 +1,11 @@
+.first-section {
+    background: url(images/pic_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header {
+    right: 0;
+    left: 0;
+}
